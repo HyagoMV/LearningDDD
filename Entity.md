@@ -2,6 +2,8 @@
 - São substântivos usados pelo especialista do domínio ao se descrever o processo reazilado naquele `Sub Domain`
 - Uma `Entity` pode ser identificada com um `id`
 
+- igualdade é feita pelos id
+
 ## Exmplo
 - Especialista do domínio fala **emitir um nota**
     - A **nota** será um entidade
