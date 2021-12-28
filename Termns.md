@@ -1,6 +1,7 @@
 # Doman Logic
-- Códigos que implementao decisões do negócios
+- Códigos que implementao decisões do negócios/comerciais
 - Regras vindas do negócio
+- 
 
 
 # Subdomain
