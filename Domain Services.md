@@ -8,3 +8,5 @@
 
 
 - São classes sem estado que usam `Entities` ou a um `Value Objects`
+
+- Usam as `Factories`
